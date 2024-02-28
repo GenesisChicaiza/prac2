@@ -1,7 +1,7 @@
 # prac2
 
 1. titulo Descriptivo:
-Proyecto Java para aproximar Pi usando el método de Monte Carlo de forma recursiva.
+Proyecto Java para aproximar Pi usando el metodo de Monte Carlo de forma recursiva.
 2. Instrucciones de instalacion:
 Clono el repositorio en git bash
 3. Ejemplos de Uso:
